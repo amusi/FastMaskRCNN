@@ -1,4 +1,8 @@
 # Mask RCNN
+Current project: https://github.com/amusi/FastMaskRCNN
+
+Source project:  https://github.com/CharlesShang/FastMaskRCNN
+
 Mask RCNN in TensorFlow
 
 This repo attempts to reproduce this amazing work by Kaiming He et al. : 
